@@ -51,6 +51,7 @@ scalarstack/
 │   ├── QtePi_scalarcore.py
 │   └── Qrfm2.7_scalarcore.py
 ├── visualization/       # Cone, planetary overlays, frequency projections
+│   ├── QconeFlip_scalarcore.py
 │   ├── Qcone_scalarcore.py
 │   ├── Qpla_scalarcore.py
 │   ├── QvamWhen_scalarcore.py
@@ -77,6 +78,7 @@ scalarstack/
 
 ## Visualization
 
+- `QconeFlip_scalarcore.py`: 3D projection of cone with counter-intuitive volume-height
 - `Qcone_scalarcore.py`: 3D projection of cone and scalar-equal-volume sphere
 - `Qpla_scalarcore.py`: Planetary spin dynamics mapped to scalar geometry
 - `QvamWhen_scalarcore.py`: Polar time-frequency map of particles and stars
